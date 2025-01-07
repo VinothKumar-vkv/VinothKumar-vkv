@@ -8,8 +8,7 @@ Computer Science and Engineering Student
 - 🌱 I'm Currently learning DSA
 - 👯 I'm Currently looking to collaborate on AI/ML
 - 📨 Ask me about Tech
-- 📥 How to reach me :
-
+- 🏯 Fun Fact: I know Japanese
 ### 🚀 Full-Stack Web Developer | 🌐 Frontend Enthusiast | 📦 Backend Architect  
 
 I'm a passionate web developer dedicated to building beautiful, responsive, and scalable web applications. With a deep love for coding and problem-solving, I turn complex challenges into elegant solutions.  
@@ -66,4 +65,4 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ---
 
-⚡ **Fun Fact:** Write a fun or interesting fact about you to add some personality!  
+⚡ **Fun Fact:** "I enjoy exploring new places and identifying unique or out-of-place elements."!  
