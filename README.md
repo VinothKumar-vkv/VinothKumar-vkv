@@ -47,7 +47,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ## 📈 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinothKumar-vkv&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
 ---
@@ -60,9 +60,9 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourlinkedin)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/vinoth-kumar-89a08b288/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourtwitter)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=web&logoColor=white&style=flat)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=web&logoColor=white&style=flat)](https://vinoth-kumar.my.canva.site/vinoth-kumar-dsa-portfolio-)  
 
 ---
 
