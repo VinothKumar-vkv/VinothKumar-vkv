@@ -45,24 +45,16 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ---
 
-## 🌟 Featured Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-> **Description:** A brief description of your project goes here, explaining its purpose and technologies used.  
-> **Tech Stack:** React, Node.js, MongoDB  
-
-### [Project Name 2](https://github.com/yourusername/project2)
-> **Description:** A short overview of the project and what makes it stand out.  
-> **Tech Stack:** Vue.js, Express.js, MySQL  
-
-### [More Projects →](https://github.com/yourusername?tab=repositories)
-
----
-
 ## 📈 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+## 🏆 LeetCode Stats
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=yourleetcodeusername&theme=dark)](https://leetcode.com/yourleetcodeusername)
 
 ---
 
@@ -75,4 +67,3 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 ---
 
 ⚡ **Fun Fact:** Write a fun or interesting fact about you to add some personality!  
-
