@@ -47,7 +47,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 ## 📈 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinothKumar-vkv&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinothKumar-vkv&layout=compact&theme=radical)  
 
 ---
 
