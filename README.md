@@ -54,7 +54,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ## 🏆 LeetCode Stats
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=yourleetcodeusername&theme=dark)](https://leetcode.com/yourleetcodeusername)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Vinoth_Kumar_30?theme=dark&font=K2D)](https://leetcode.com/Vinoth_Kumar_30)
 
 ---
 
