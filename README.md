@@ -14,44 +14,52 @@ Computer Science and Engineering Student
 I'm a passionate web developer dedicated to building beautiful, responsive, and scalable web applications. With a deep love for coding and problem-solving, I turn complex challenges into elegant solutions.  
 
 ---
-
 # 💻 I Code In:
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**  
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**  
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**  
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**  
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**  
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**  
-- ![Sass](https://img.icons8.com/color/48/000000/sass.png) **Sass**  
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap**  
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**  
-- ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) **TensorFlow**  
-- ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) **Arduino**  
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React.js**  
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**  
-- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring Boot**  
-- ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) **GraphQL**  
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**  
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" title="Sass" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" title="Arduino" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" title="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" title="GraphQL" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
+</p>
 
 ---
 
 # 🛠 IDE and Tools I Use:
-- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**  
-- ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) **IntelliJ IDEA**  
-- ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) **Postman**  
-- ![Netlify](https://img.icons8.com/color/48/000000/netlify.png) **Netlify**  
-- ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png) **Adobe Photoshop**  
-- ![Figma](https://img.icons8.com/color/48/000000/figma.png) **Figma**  
-- ![Notion](https://img.icons8.com/color/48/000000/notion.png) **Notion**  
-- ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd--v1.png) **Adobe XD**
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman" />
+  <img src="https://img.icons8.com/color/48/000000/netlify.png" alt="Netlify" title="Netlify" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop" title="Photoshop" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" />
+  <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion" title="Notion" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" alt="Adobe XD" title="Adobe XD" />
+</p>
 
 ---
 
 # 🖥 Workspace Specifications:
-- ![MacBook](https://img.icons8.com/color/48/000000/macbook.png) **MacBook Pro M1**  
-- ![NVIDIA](https://img.icons8.com/color/48/000000/nvidia.png) **NVIDIA GTX 1650**  
-- ![AMD](https://img.icons8.com/color/48/000000/amd.png) **AMD Ryzen 5 4600H**
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/macbook.png" alt="MacBook Pro M1" title="MacBook Pro M1" />
+  <img src="https://img.icons8.com/color/48/000000/nvidia.png" alt="NVIDIA GTX 1650" title="NVIDIA GTX 1650" />
+  <img src="https://img.icons8.com/color/48/000000/amd.png" alt="AMD Ryzen 5 4600H" title="AMD Ryzen 5 4600H" />
+</p>
 
 ---
 
