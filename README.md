@@ -56,7 +56,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 # 🖥 Workspace Specifications:
 
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/macbook-pro.png" alt="MacBook Pro M1" title="MacBook Pro M1" />
+  <img src="https://apple.fandom.com/wiki/Apple_M1_Pro" alt="MacBook Pro M1" title="MacBook Pro M1" />
   <img src="https://img.icons8.com/color/48/000000/nvidia.png" alt="NVIDIA GTX 1650" title="NVIDIA GTX 1650" />
   <img src="https://img.icons8.com/color/48/000000/amd.png" alt="AMD Ryzen 5 4600H" title="AMD Ryzen 5 4600H" />
 </p>
