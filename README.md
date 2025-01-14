@@ -85,7 +85,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ---
 
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=octocat&theme=github)
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=VinothKumar-vkv&theme=github)
 
 
 
