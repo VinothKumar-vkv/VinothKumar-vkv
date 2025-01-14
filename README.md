@@ -44,7 +44,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
   <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman" />
-  <img src="https://iconduck.com/icons/77125/netlify" alt="Netlify" title="Netlify" />
+  <img src="https://www.svgrepo.com/svg/342058/netlify" alt="Netlify" title="Netlify" />
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop" title="Photoshop" />
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" />
   <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion" title="Notion" />
