@@ -15,32 +15,43 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ---
 
-## 💻 Tech Stack
+# 💻 I Code In:
+- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**  
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**  
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**  
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**  
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**  
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**  
+- ![Sass](https://img.icons8.com/color/48/000000/sass.png) **Sass**  
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap**  
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**  
+- ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) **TensorFlow**  
+- ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) **Arduino**  
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React.js**  
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**  
+- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring Boot**  
+- ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) **GraphQL**  
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**  
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)  
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+---
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
+# 🛠 IDE and Tools I Use:
+- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**  
+- ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) **IntelliJ IDEA**  
+- ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) **Postman**  
+- ![Netlify](https://img.icons8.com/color/48/000000/netlify.png) **Netlify**  
+- ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png) **Adobe Photoshop**  
+- ![Figma](https://img.icons8.com/color/48/000000/figma.png) **Figma**  
+- ![Notion](https://img.icons8.com/color/48/000000/notion.png) **Notion**  
+- ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd--v1.png) **Adobe XD**
 
-**Database**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+---
 
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+# 🖥 Workspace Specifications:
+- ![MacBook](https://img.icons8.com/color/48/000000/macbook.png) **MacBook Pro M1**  
+- ![NVIDIA](https://img.icons8.com/color/48/000000/nvidia.png) **NVIDIA GTX 1650**  
+- ![AMD](https://img.icons8.com/color/48/000000/amd.png) **AMD Ryzen 5 4600H**
 
 ---
 
