@@ -85,4 +85,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ---
 
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=VinothKumar-vkv&theme=github)
+
+
 ⚡ **Fun Fact:** "I enjoy exploring new places and identifying unique or out-of-place elements."!  
