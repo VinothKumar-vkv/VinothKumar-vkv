@@ -84,8 +84,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=web&logoColor=white&style=flat)](https://vinoth-kumar.my.canva.site/vinoth-kumar-dsa-portfolio-)  
 
 ---
-
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=VinothKumar-vkv&theme=github)
+[![Vinoth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VinothKumar-vkv)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
