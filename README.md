@@ -58,6 +58,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/nvidia.png" alt="NVIDIA GTX 1650" title="NVIDIA GTX 1650" />
   <img src="https://img.icons8.com/color/48/000000/amd.png" alt="AMD Ryzen 5 4600H" title="AMD Ryzen 5 4600H" />
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows 10" title="Windows 10" />
 </p>
 
 
