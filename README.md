@@ -80,7 +80,7 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat&logoWidth=30)](https://www.linkedin.com/in/vinoth-kumar-89a08b288/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat&logoWidth=50)](https://www.linkedin.com/in/vinoth-kumar-89a08b288/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat&logoWidth=30)](https://twitter.com/yourtwitter)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=web&logoColor=white&style=flat&logoWidth=30)](https://vinoth-kumar.my.canva.site/vinoth-kumar-dsa-portfolio-)  
  
