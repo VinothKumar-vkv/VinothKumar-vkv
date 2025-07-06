@@ -88,6 +88,10 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 ---
 [![Vinoth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VinothKumar-vkv)](https://github.com/VinothKumar-vkv/github-compact)
 
+---
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 
 
 ⚡ **Fun Fact:** "I enjoy exploring new places and identifying unique or out-of-place elements."!  
