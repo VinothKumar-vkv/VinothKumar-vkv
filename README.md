@@ -2,9 +2,8 @@
 
 
 Computer Science and Engineering Student
-<img align="right" width="350" height="280" src="https://tse3.mm.bing.net/th/id/OIP.NgccW8LadMa0DbJRGo_Q_QHaEI?pid=Api&P=0&h=180" >
+<img align="right" width="300" height="2300" src="https://tse3.mm.bing.net/th/id/OIP.NgccW8LadMa0DbJRGo_Q_QHaEI?pid=Api&P=0&h=180" >
 
-- 🔭 Here is my [portfolio](https://vinoth-kumar.my.canva.site/vinoth-kumar-dsa-portfolio-)
 - 🌱 I'm Currently learning DSA
 - 👯 I'm Currently looking to collaborate on AI/ML
 - 📨 Ask me about Tech
@@ -65,18 +64,6 @@ I'm a passionate web developer dedicated to building beautiful, responsive, and 
 
 ---
 
-## 📈 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinothKumar-vkv&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinothKumar-vkv&layout=compact&theme=radical)  
-
----
-
-## 🏆 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Vinoth_Kumar_30?theme=dark&font=K2D)](https://leetcode.com/Vinoth_Kumar_30)
-
----
 
 ## 📫 Connect With Me  
 
