@@ -2,7 +2,7 @@
 
 
 Computer Science and Engineering Student
-<img align="right" width="300" height="2300" src="https://tse3.mm.bing.net/th/id/OIP.NgccW8LadMa0DbJRGo_Q_QHaEI?pid=Api&P=0&h=180" >
+<img align="right" width="300" height="230" src="https://tse3.mm.bing.net/th/id/OIP.NgccW8LadMa0DbJRGo_Q_QHaEI?pid=Api&P=0&h=180" >
 
 - 🌱 I'm Currently learning DSA
 - 👯 I'm Currently looking to collaborate on AI/ML
